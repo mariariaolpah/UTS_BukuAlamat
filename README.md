@@ -1,16 +1,20 @@
 
-## Aplikasi Pengelola Kontak
-- Aplikasi Pengelola Kontak adalah Aplikasi untuk mengelola kontak menggunakan database sqlite
+## Aplikasi Buku Alamat
+adalah aplikasi untuk mendata alamat seseorang
+## Fitur
+Aplikasi ini menawarkan fitur: Simpan, Ubah, Hapus
 
-- Keunggulan Aplikasi
-Pengelola Kontak: Aplikasi ini adalah untuk mengelola kontak keluarga, teman, kerja
+## Cara Menjalankan
+1. Run File
+2. Tekan Button Aplikasi, maka akan mengarah ke aplikasinya
+3. Ketikkan Nama Yang Kita Input
+4. Ketikkan Telepon Yang Kita Input
+5. Ketikkan Email Yang Kita Input
+6. Ketikkan Alamat Yang Kita Input
+7. Tekan Button Simpan, maka akan terlihat datanya di table
+8. Tekan Button Ubah, Jika ingin mengubah
+9. Tekan Button Hapus, jika ingin menghapus
 
-- Cara Menjalankan
-Run File Ketikkan Nama Yang Kita Input Ketikkan Phone Yang Kita Input Pilih kategori Yang Kita Input Tekan Button Add maka akan muncul di panel ID, Name, Phone, dan category Tekan Button Edit, jika ingin mengedit Tekan Button Delete, jika Menghapus
-# Fitur
-
-Fitur
-Aplikasi ini menawarkan fitur: Menambahkan Kontak serta mengedit dan menghapus
 ## Pembuat Aplikasi UTS
 
 - Nama  : Maria Olpah
@@ -20,6 +24,5 @@ Aplikasi ini menawarkan fitur: Menambahkan Kontak serta mengedit dan menghapus
 
 ## Demo
 
-![App Screenshot](https://github.com/mariariaolpah/UTS_BukuAlamat/blob/main/IMG.gif)
-
+![App Screenshot](https://github.com/mariariaolpah/Maria-Olpah-2210010684-UTS/blob/main/IMG.gif)
 
