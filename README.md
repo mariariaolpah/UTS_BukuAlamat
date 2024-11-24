@@ -20,6 +20,6 @@ Aplikasi ini menawarkan fitur: Menambahkan Kontak serta mengedit dan menghapus
 
 ## Demo
 
-![App Screenshot](https://github.com/mariariaolpah/UTS_BukuAlamat/edit/main/IMG.gif)
+![App Screenshot](https://github.com/mariariaolpah/UTS_BukuAlamat/blob/main/IMG.gif)
 
 
